@@ -1,0 +1,2 @@
+taup_setsac
+taup_setsac S_prem -ph S-8,ScS-9 file
